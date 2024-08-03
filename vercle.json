@@ -3,7 +3,6 @@
   "outputDirectory": "dist",
   "devCommand": "expo",
   "cleanUrls": true,
-  "outputDirectory": "public",
   "framework": null,
   "rewrites": [
     {
