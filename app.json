@@ -16,30 +16,25 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.gluestack.uiexamplenativewind"
+      "bundleIdentifier": "com.ericbear0602.lotteryapp"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.gluestack.uiexamplenativewind"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png",
       "bundler": "metro"
     },
-    "extra": {
-      "eas": {
-        "projectId": "42cce9b5-9fbe-4572-92ba-fc43b2437a85"
-      }
-    },
-    "owner": "gluestack",
     "runtimeVersion": {
       "policy": "appVersion"
     },
-    "updates": {
-      "url": "https://u.expo.dev/42cce9b5-9fbe-4572-92ba-fc43b2437a85"
+    "extra": {
+      "eas": {
+        "projectId": "236f4298-79e8-42e4-afb1-a0d630ee9e64"
+      }
     }
   }
 }
