@@ -1,7 +1,5 @@
 {
-  "buildCommand": "echo 'hello world'",
   "outputDirectory": "dist",
-  "devCommand": "npx expo start",
   "cleanUrls": true,
   "framework": null,
   "rewrites": [
